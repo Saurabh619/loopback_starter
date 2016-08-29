@@ -14,34 +14,34 @@
     ]
   },
   "User": {
-    "dataSource": "db"
+    "dataSource": "givesmbdy"
   },
   "AccessToken": {
-    "dataSource": "db",
+    "dataSource": "givesmbdy",
     "public": false
   },
   "ACL": {
-    "dataSource": "db",
+    "dataSource": "givesmbdy",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "db",
+    "dataSource": "givesmbdy",
     "public": false
   },
   "Role": {
-    "dataSource": "db",
+    "dataSource": "givesmbdy",
     "public": false
   },
   "Gift": {
-    "dataSource": "db",
+    "dataSource": "givesmbdy",
     "public": true
   },
   "Donor": {
-    "dataSource": "db",
+    "dataSource": "givesmbdy",
     "public": true
   },
   "Receiver": {
-    "dataSource": "db",
+    "dataSource": "givesmbdy",
     "public": true
   }
 }

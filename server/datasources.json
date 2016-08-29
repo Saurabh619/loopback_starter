@@ -1,6 +1,21 @@
 {
-  "db": {
-    "name": "db",
-    "connector": "memory"
+  "givesomebody": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "givesomebody",
+    "username": "",
+    "password": "",
+    "name": "givesomebody",
+    "connector": "mongodb"
+  },
+  "givesmbdy": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "givesmbdy",
+    "password": "",
+    "name": "givesmbdy",
+    "user": "",
+    "connector": "mongodb"
   }
 }
